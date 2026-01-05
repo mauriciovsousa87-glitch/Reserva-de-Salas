@@ -1,0 +1,5 @@
+{
+  "name": "ReservaMaster - Sistema de Salas",
+  "description": "Sistema completo para reserva de salas de reunião com calendário interativo, gestão de conflitos e painel administrativo.",
+  "requestFramePermissions": []
+}
